@@ -1,2 +1,2 @@
-# newrepo
-creating my first repo
+# Elijahs repo
+This is just for my nextgen IIT class
